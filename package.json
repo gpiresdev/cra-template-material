@@ -1,0 +1,20 @@
+{
+  "name": "cra-template-material",
+  "version": "1.1.2",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "Create react-app based template. With Material UI and Router DOM installed.",
+  "main": "index.js",
+  "author": "Guilherme Pires",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
